@@ -1,0 +1,1 @@
+# mathematics-factorial-number-algorithm
